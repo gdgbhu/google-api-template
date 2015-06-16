@@ -1,0 +1,7 @@
+{
+  "require": {
+    "google/apiclient" : "1.1.4",
+    "pear/mail_mime": "dev-master",
+    "pear/pear_exception": "dev-master"
+  }
+}
